@@ -62,7 +62,7 @@ In addition to these projects in python, I've created databases for fictional co
 Since high school I've worked as a carpenter during my breaks from school. The bulk of my work has been framing but I've done a little of everything. The first thing I learned on the job was that I can learn useful skills from everyone, so I always ask questions. I developed a passion for learning and applying my knowledge to solve problems. 
 The most valuable skill I learned as a carpenter was leadership. I worked on many different jobs and each job had a different leader. I found that the best leaders were those who lead by example. Those who worked hard with friendly attitudes and strong soft skills contributed to the most successful teams. I aspire to be that wherever I can. I can inspire others and lead from any position in a team with a good attitude, hard work and clear communication with my team members.
 
-<a name="education"></a>
+<a name="educataion"></a>
 <hr>
 
 ### Education

@@ -1,109 +1,78 @@
 <a name="top"></a>
 <hr>
 
-## Welcome! This is a little about me and a sampling of my work.
-[<img src="https://user-images.githubusercontent.com/91146906/162140860-bfb69654-5603-49bd-a7a1-a836ab1c772c.svg" height="35"/>](#education)
-[<img src="https://user-images.githubusercontent.com/91146906/152290724-72946642-3e58-4ba3-b5b8-b687628526b1.svg" height="35"/>](#DanielsDistinction)
-[<img src="https://user-images.githubusercontent.com/91146906/162140921-207cd392-cfe5-40e6-a84e-0a16e19e405a.svg" height="35"/>](#profExp)
-[<img src="https://user-images.githubusercontent.com/91146906/162140965-cf707805-9abd-43f7-8314-4f96794c44dc.svg" height="35"/>](#skills)
+## Welcome to my GitHub Portfolio. 
+
+[![Main](https://img.shields.io/badge/Main-blue?style=for-the-badge)](#Main)
+[![Skills](https://img.shields.io/badge/Skills-red?style=for-the-badge)](#Skills)
+[![Projects](https://img.shields.io/badge/Projects-green?style=for-the-badge)](#pastproj)
+[![Experience](https://img.shields.io/badge/Experience-yellow?style=for-the-badge)](#Workexp)
+[![Educataion](https://img.shields.io/badge/Education-purple?style=for-the-badge)](#educataion)
+
+
+<a name="Main"></a>
+<hr>
+
+## Main
+Bachelor of Science Business Administration – Business Information and Analytics, June 2025
+
+<p>My name is Adrian and I'm currently finishing my senior year at the University of Denver. I'm a soon-to-be professional data analyst with a robust education looking to add value in a business setting. This repository is where I'm looking forward to sharing my coding projects. Below is some background information about my skills and education.</p>
+
+### Contact Info
+<p>Email: adrian.clapp@du.edu<p>
+<i>See my [LinkedIn](www.linkedin.com/in/adrian-clapp)</i>
+
+<a name="Skills"></a>
+<hr>
+
+## Skills
+While learning to be a data analyst I've picked up a lot of technical skills. I can create databases using Microsoft Access and SQL Server, and connect them to python notebooks for deeper data analysis. I've had plenty of practice outputting my results into dashboards and presenting them to business users. The most important part of data analytics is communication, and that is where I put my focus, so that the value I find can easily be transferred to team members. 
+
+Whenever I begin a data analytics project, I have to begin by cleaning the data. Knowing how to clean the data usually depends on the context of the project. I prefer to clean data in python because I feel it gives me a lot of flexibility. My favorite part of data analytics is being able use models to make predictions, which I've done using python, JMP, and r. These predictions have to presented which I usually do with a slideshow presentation. 
+
+I do a lot of work in teams, and I've developed good collaboration skills. The best teams I work in have constant communication which keeps everyone on track working towards the same goal. I strive to maintain communication in my group projects and to be the first in the group to get the wheels turning. 
+
+In addition to the data analytics tools I use, I'm certified in Microsoft Excel, Word and Powerpoint.
+
+<a name="pastproj"></a>
+<hr>
+
+## Past Projects
+
+Recently I've been doing lots of textual analytics projects. Here's the output of two different models I made to predict the sentiment of movie reviews:
+
+![Textual Analytics Naive Bayes](https://github.com/AdrianClapp/adrian-clapp/blob/main/Screenshot_4-3-2025_194536_colab.research.google.com.jpeg)
+![Textual Analytics BERT](https://github.com/AdrianClapp/adrian-clapp/blob/main/Screenshot_4-3-2025_194643_colab.research.google.com.jpeg)
+
+The first model output is a naive bayes model I trained. The second is the output of a BERT model I trained as well. The goal of the project was really just to learn about the differences between different kinds of sentiment analysis models. I learned a lot about the methods of data preprocessing for textual analytics.
+
+Below is the output from one of my first coding projects. My goal was to use NBA data from the 2023/2024 season to predict the best team to score the most Draft Kings points for a given weekend within constraints. At the time for me this was my most challenging problem to date. Now that I'm so much more experienced I'm still proud of how much I learned about modeling in python during this project.
+
+![NBA Project Results](https://github.com/AdrianClapp/adrian-clapp/blob/main/Screenshot_4-3-2025_194931_colab.research.google.com.jpeg)
+
+
+In addition to these projects in python, I've created databases for fictional companies and practiced querying for KPI's and presenting them in a dashboard. I've created dashboards mostly using Tableau but also using Power BI. The most challenging part of these projects was just connecting the data and the ETL process. I'm looking forward to trying this on a bigger scale and using real data to make real decisions. 
+
+
+<a name="Workexp"></a>
+<hr>
+
+### Work Experience
+
+Since high school I've worked as a carpenter during my breaks from school. The bulk of my work has been framing but I've done a little of everything. The first thing I learned on the job was that I can learn useful skills from everyone, so I always ask questions. I developed a passion for learning and applying my knowledge to solve problems. 
+The most valuable skill I learned as a carpenter was leadership. I worked on many different jobs and each job had a different leader. I found that the best leaders were those who lead by example. Those who worked hard with friendly attitudes and strong soft skills contributed to the most successful teams. I aspire to be that wherever I can. I can inspire others and lead from any position in a team with a good attitude, hard work and clear communication with my team members.
 
 <a name="education"></a>
 <hr>
 
-## Education
-### University of Denver, Daniels College of Business
-Bachelor of Science Business Administration – Business Information and Analytics, June 2022
+### Education
 
-<ul>
-  <li><b>Margery Reed Service Award</b>: This award recognizes outstanding commitment to Daniels Undergraduate Programs.</li>
-  <li><b>ANDREW H. WOOD Award</b>: This award goes to the students with the highest scholarship ranking in the 2021-2022 class.</li>
-  <li><b>Daniels Award for Excellence</b>: This is awarded to a student who has made an outstanding contribution to the College and demonstrates the Daniels' values of leadership, ethical behavior, appreciation of diversity, and service to the community.</li>
-  <li><b>Outstanding Business Information and Analytics Undergraduate</b>: Awarded in recognition of work at Daniels within Business Information and Analytics.</li>
-</ul>
+At the University of Denver I've learned broadly about all aspects of business, with a focus on data analytics. The business core classes have provided me with knowledge in accounting, finance, management, marketing, entrepreneurship, and business soft skills. I've found that the most valuable skills the soft skills. A particularly fulfilling class for me was Business Communication. The professor pushed me out of my comfort zone to make solo presentations for the class. Presenting isn't a skill that comes naturally for me, so I had to struggle a little in the class. Ultimately, I feel like I improved my communication drastically during the class and I'm glad I've had that experience. 
 
-<a name="DanielsDistinction"></a>
-#### Daniels Distinction Portfolio
-In pursuing Distinction in Business Analytics from the University of Denver, I compiled a portfolio highlighting my experiences and work throughout my undergraduate years. 
+Another experience I'm grateful for is the time I spent studying abroad in Aix-En-Provence, France, through the Institute for American Universities. Navigating different languages and cultures on my own for three months really helped my confidence. I feel assured in myself after thriving in a completely foreign environment.
 
-<table>
-  <tr>
-    <td>
-      <img src="https://user-images.githubusercontent.com/91146906/163692219-efc3d673-751e-4734-8667-21a3aae17f44.jpg" height="460">
-      <br><i>Daniels Distinction Presentation April 2022</i>
-      </td>
-  </tr>
-</table>
+Three of my other favorite classes are Optimization Modeling, Data Mining & Visualization, and Complex Data Analytics. What these three classes have in common is predictive analytics. Being able to use data to predict a future outcome is something that will always seem like magic to me. I enjoy learning these skills because I can easily understand how valuable they are in real-world applications. 
 
-[<img src="https://user-images.githubusercontent.com/91146906/152291436-225cf6f7-2fb4-4c9c-b6bd-96a5010d3db7.svg" height="35"/>](/DanielsDistinctionPortfolio/#top)
-[<img src="https://user-images.githubusercontent.com/91146906/163692713-13e3fdac-bef7-47f0-85d3-6c98086204cf.svg" height="35"/>](https://www.youtube.com/watch?v=Wo9jiR-w170)
+I've also completed a LinkedIn learning class called Advance your Python Skills for Data Science. In this class I honed my python skills and learned some valuable analytics techniques. 
 
-[<img src="https://user-images.githubusercontent.com/91146906/152072378-b0168a2d-e85c-47c6-a272-fcfb3f6a44ae.svg" height="35"/>](#top)
-
-<a name="profExp"></a>
-<hr>
-
-## Jobs and Internships
-<i>See my [LinkedIn](https://www.linkedin.com/in/hannah-m-mcdonald/)</i>
-
-[<img src="https://user-images.githubusercontent.com/91146906/152072378-b0168a2d-e85c-47c6-a272-fcfb3f6a44ae.svg" height="35"/>](#top)
-
-<a name="skills"></a>
-<hr>
-
-## Skills
-
-<table>
-  <tr>
-    <th>Tools and Technical Skills</th>
-    <th>Certifications</th>
-  </tr>
-  <tr>
-    <td>
-     <ul>
-        <li>SQL</li>
-        <li>Visual Basic</li>
-        <li>Python</li>
-        <li>R</li>
-        <li>Excel</li>
-        <li>Microsoft SQL Server Management Studio</li>
-        <li>Microsoft Visual Studio</li>
-        <li>Tableau</li>
-       <li>PowerBI</li>
-        <li>Trello</li>
-      </ul>
-    </td>
-    <td>
-     <ul>
-        <li><a href = "https://www.credly.com/badges/e654fce3-19be-40b3-9347-228eea2ce3a1/public_url">Microsoft Expert Access 2019</a></li>
-        <li><a href = "https://www.credly.com/badges/23f6c6da-fbcd-4a01-bedc-2f9ca4e5a540/public_url">Microsoft Expert Excel 2019</a></li>
-        <li><a href = "https://www.credly.com/badges/ac1cb133-b395-4a61-a71c-8fd6ea908771/public_url">Microsoft Expert Word 2019</a></li>
-        <li><a href = "https://www.credly.com/badges/e1f089c5-e148-4a30-9dc3-b6551e873dd8/public_url">Microsoft Associate PowerPoint 2019</a></li>
-       <li><a href = "https://www.credly.com/badges/7204aaa1-f592-4582-bc1c-7444f5d49cba/public_url">Microsoft Associate Outlook 2019</a></li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <th>CliftonStrengths</th>
-    <th>Other Skills</th>
- </tr>
- <tr>
-   <td>
-     <ol>
-        <li>Learner</li>
-        <li>Responsibility</li>
-        <li>Achiever</li>
-        <li>Discipline</li>
-        <li>Intellection</li>
-     </ol>
-   </td>
-   <td>
-     <ul>
-        <li>Teaching</li>
-        <li>Facilitating</li>
-       <li>Problem Solving</li>
-     </ul>
-   </td>
- </tr>
-</table>
-
-[<img src="https://user-images.githubusercontent.com/91146906/152072378-b0168a2d-e85c-47c6-a272-fcfb3f6a44ae.svg" height="35"/>](#top)
+[![Top](https://img.shields.io/badge/Top-brown?style=for-the-badge)](#top)
